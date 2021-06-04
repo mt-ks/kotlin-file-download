@@ -1,5 +1,11 @@
-# Kotlin APK Download
+# Kotlin APK/Files Download
 Download APK or other files without google play
+
+#### Implement Coroutines
+```
+implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0'
+implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
+```
 
 #### Android Permissions STEP 1
 ```xml
