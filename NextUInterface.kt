@@ -1,4 +1,4 @@
-package com.fastfollow.bytefollow.helpers
+package com.yourpackagename
 
 interface NextUInterface {
     fun onDownloadFinished(downloadPath: String)
