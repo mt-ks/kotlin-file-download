@@ -37,7 +37,7 @@ implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
 
 #### How to download apk
 ```kotlin
-(NextUI("https://yourservice.com/app.apk","app_1_2.apl",context,listener).download())
+(DownloadService("https://yourservice.com/app.apk","app_1_2.apl",context,listener).download())
 
 override fun onProgress(progress: Int) {
 }
